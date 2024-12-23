@@ -1,0 +1,6 @@
+Tensorflow
+Yfinance
+Matplotlib
+Numpy
+Pnadas 
+Streamlit
